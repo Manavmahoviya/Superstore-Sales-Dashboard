@@ -1,7 +1,11 @@
-## Superstore-Sales-Dashboard snapshot 
+
+
 # Superstore Sales Dashboard
 ## Overview
 The Superstore Sales Dashboard is a comprehensive visualization tool created using Power BI to analyze sales data. It provides insights into various sales metrics, including total sales, orders, profit, and average delivery time. Additionally, the dashboard presents sales distribution by segment, region, monthly trends, and product categories.
+
+## Superstore-Sales-Dashboard snapshot 
+![Screenshot 2024-02-12 205110](https://github.com/Manavmahoviya/Superstore-Sales-Dashboard/assets/113713554/b492f29b-03a0-4a72-8367-3a150640b7ed)
 
 ### Key Metrics
 - Total Sales: $2 million
